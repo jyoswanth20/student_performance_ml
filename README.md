@@ -17,3 +17,12 @@ Predict student final marks using academic features.
 - Pandas
 - Matplotlib
 - Scikit-learn
+
+## Machine Learning Workflow
+
+1. Load dataset
+2. Separate features and target
+3. Split data into training and testing sets
+4. Train Linear Regression model
+5. Generate predictions
+6. Evaluate the model
