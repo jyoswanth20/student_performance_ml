@@ -26,3 +26,15 @@ Predict student final marks using academic features.
 4. Train Linear Regression model
 5. Generate predictions
 6. Evaluate the model
+
+## Model
+
+Model used:
+Linear Regression
+
+## Evaluation Metrics
+
+- MAE
+- MSE
+- RMSE
+- R² Score
